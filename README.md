@@ -7,8 +7,8 @@ Website Preview
 <img width="943" alt="pic 3" src="https://github.com/lakshya200444444/Hungry-Birds/blob/main/frontend/src/assets/Picture4.png">
 <img width="923" alt="pic 4" src="https://github.com/lakshya200444444/Hungry-Birds/blob/main/frontend/src/assets/Picture5.png">
 <img width="922" alt="pic 5" src="https://github.com/lakshya200444444/Hungry-Birds/blob/main/frontend/src/assets/Picture6.png">
-<img width="934" alt="pic 6" src="">
-<img width="921" alt="pic 7" src="">
+<img width="934" alt="pic 6" src="https://github.com/lakshya200444444/Hungry-Birds/blob/main/frontend/src/assets/Picture8.png">
+<img width="921" alt="pic 7" src="https://github.com/lakshya200444444/Hungry-Birds/blob/main/frontend/src/assets/Picture9.png">
 ## Features of the Project
 
 - **User Interface:**
