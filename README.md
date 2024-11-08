@@ -2,11 +2,11 @@
 
 Website Preview
 <img width="929" alt="pic login" src= "https://github.com/lakshya200444444/Hungry-Birds/blob/main/frontend/src/assets/Picture1.png">
-<img width="946" alt="pic 1" src="">
-<img width="935" alt="pic 2" src="">
-<img width="943" alt="pic 3" src="">
-<img width="923" alt="pic 4" src="">
-<img width="922" alt="pic 5" src="">
+<img width="946" alt="pic 1" src="https://github.com/lakshya200444444/Hungry-Birds/blob/main/frontend/src/assets/Picture2.png">
+<img width="935" alt="pic 2" src="https://github.com/lakshya200444444/Hungry-Birds/blob/main/frontend/src/assets/Picture3.png">
+<img width="943" alt="pic 3" src="https://github.com/lakshya200444444/Hungry-Birds/blob/main/frontend/src/assets/Picture4.png">
+<img width="923" alt="pic 4" src="https://github.com/lakshya200444444/Hungry-Birds/blob/main/frontend/src/assets/Picture5.png">
+<img width="922" alt="pic 5" src="https://github.com/lakshya200444444/Hungry-Birds/blob/main/frontend/src/assets/Picture6.png">
 <img width="934" alt="pic 6" src="">
 <img width="921" alt="pic 7" src="">
 ## Features of the Project
