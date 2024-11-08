@@ -1,7 +1,7 @@
 "Hungry Bird"is a full-stack web application designed for online food ordering, leveraging the MERN stack to provide a seamless and intuitive user experience. The platform includes comprehensive features for both users and administrators, ensuring efficient food ordering and management processes.
 
 Website Preview
-<img width="929" alt="pic login" src= "C:\Users\Dell\Downloads\Picture1.png">
+<img width="929" alt="pic login" src= "https://github.com/lakshya200444444/Hungry-Birds/blob/main/frontend/src/assets/Picture1.png">
 <img width="946" alt="pic 1" src="">
 <img width="935" alt="pic 2" src="">
 <img width="943" alt="pic 3" src="">
