@@ -1,16 +1,12 @@
 import axios from "axios";
-import { food_list } from "../assets/assets";
 import { createContext, useEffect, useState } from "react";
 export const StoreContext = createContext(null);
-
+import { food_list } from "../assets/assets";
 const StoreContextProvider = (props) => {
-  const [food_list, setFoodList] = useState([]);
-
-  useEffect(() => {
-    console.log("Food Item in Store => ", food_list);
-  }, [food_list]);
+ // const [food_list, setFoodList] = useState([]);
+  console.log("foodlist",food_list)
   const [cartItems, setCartItems] = useState({});
-  const url = "http://localhost:5173";
+  const url = "http://localhost:4000";
   const [token, setToken] = useState("");
   const addToCart = async (itemId) => {
     if (!cartItems[itemId]) {
@@ -58,7 +54,6 @@ const StoreContextProvider = (props) => {
 
   const fetchFoodList = async () => {
     const response = await axios.get(url + "/api/food/list");
-    console.log("Response FoodList => ", response.data.data);
     setFoodList(response.data.data);
   };
   useEffect(() => {
